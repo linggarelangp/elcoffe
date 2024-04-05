@@ -1,0 +1,4 @@
+node_modules
+*.txt
+style.css
+*.json
